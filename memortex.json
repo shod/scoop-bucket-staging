@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shod/memortex-staging/releases/download/v0.1.0/memortex_0.1.0_windows_amd64.zip",
+            "bin": [
+                "memortex-tui.exe",
+                "memortex-panel.exe",
+                "memortex-tray.exe",
+                "memortex.exe"
+            ],
+            "hash": "544b56f5ef024a98f3258a05925e7dbdd61b56be3ca888d9f8667f852f10ffd2"
+        }
+    },
+    "homepage": "https://github.com/shod/memortex-staging",
+    "description": "Local second brain for AI agents (daemon, TUI, panel, tray)."
+}
